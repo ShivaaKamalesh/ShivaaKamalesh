@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap ,Figma**
 
 <h3 align="left">Languages and Tools:</h3>
 
