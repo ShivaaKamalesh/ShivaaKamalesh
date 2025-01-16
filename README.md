@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Web Developmant**
   
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap ,Figma,ReactJS**
 
