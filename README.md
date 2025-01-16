@@ -20,7 +20,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="40" height="40" />
 </a>
 <a href="https://www.bing.com/" target="_blank" rel="noreferrer">
-  <img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?w=157&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Bing Image" width="100" height="100" />
+  <img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?w=157&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Bing Image" width="50" height="50" />
 </a>
 
 
