@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Web Developmant**
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap ,Figma,ReactJS**
 
