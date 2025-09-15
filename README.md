@@ -24,8 +24,4 @@
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivaaKamalesh&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="shivakamalesh" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaaKamalesh&show_icons=true&locale=en&theme=cobalt" alt="shivakamalesh"/></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivaaKamalesh&theme=cobalt&background=000000)](https://git.io/streak-stats)
